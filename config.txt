@@ -1,0 +1,7 @@
+D:\_Games\_Mupen64\New_Mupen_Lua_Release_1.0.4\mupen64_107a.exe
+-v "glN64_v0.4.1.dll"
+-a "a_Jabo_Dsound.dll"
+-rsp "a_RSP.dll"
+-c "TASDI.dll"
+-g "D:\_Games\_Mupen64\ROMs\Super Mario 64 (U) [!].z64"
+-lua "D:\_Games\_Mupen64\Lua\InputDirection_3.3\InputDirection.lua"
